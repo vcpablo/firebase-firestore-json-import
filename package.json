@@ -1,0 +1,28 @@
+{
+  "name": "firebase-firestore-json-import",
+  "version": "1.0.0",
+  "description": "A Firebase Firestore JSON import sample script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcpablo/firebase-firestore-json-import.git"
+  },
+  "keywords": [
+    "Firebase",
+    "Firestore",
+    "Import"
+  ],
+  "author": "Pablo Veiga <vcpablo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcpablo/firebase-firestore-json-import/issues"
+  },
+  "homepage": "https://github.com/vcpablo/firebase-firestore-json-import#readme",
+  "dependencies": {
+    "firebase-admin": "^7.1.1"
+  }
+}
